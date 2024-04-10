@@ -1,1 +1,9 @@
 # Yahoo Security Breach Case Study
+
+Challenge/Context: The Yahoo.com Security Compromise presented a critical challenge in the realm of cybersecurity, highlighting the vulnerability of even major tech companies to sophisticated social engineering attacks. Spanning from 2012 to 2016, the breaches compromised billions of user accounts, underscoring the urgent need for robust cybersecurity measures and proactive strategies to mitigate such threats.
+
+Action: To understand the intricacies of the breach, extensive research was conducted, delving into the methodologies employed by the attackers and the consequences of their actions. Analysis of the Department of Justice (DOJ) reports and other relevant sources provided valuable insights into the nature and scope of the attacks, including the techniques utilized by the cybercriminals and the legal actions taken against them.
+
+Result: The comprehensive analysis shed light on the evolving threat landscape of social engineering attacks, particularly spear phishing, and emphasized the importance of proactive cybersecurity measures. Furthermore, it underscored the significance of timely and transparent communication in the aftermath of security breaches to maintain user trust and facilitate swift responses to mitigate potential damages.
+
+Reflection: This case study served as a crucial learning opportunity, highlighting the complexities of cybersecurity challenges in today's digital age. It emphasized the need for continuous vigilance, robust security measures, and collaborative efforts among international stakeholders to address evolving cyber threats effectively. Additionally, it reinforced the importance of prioritizing transparency and communication to mitigate the impact of security incidents and maintain user confidence in digital platforms.
